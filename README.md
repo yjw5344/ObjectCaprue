@@ -96,3 +96,5 @@ usdz 형태의 파일로 정상적으로 3D Modeling이 생성된 것을 확인 
 ![가이드10](./referenceImage/가이드10.png)
 
 ![가이드11](./referenceImage/가이드11.png)
+
+![가이드12](./referenceImage/가이드12.png)
