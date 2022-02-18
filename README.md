@@ -79,7 +79,7 @@ $ ./HelloPhotogrammetry (inputPath) (outputPath) -d (option) -o (option) -f (opt
 > inputPath : 3D Modeling을 만들기 위한 이미지가 저장되어있는 폴더의 경로
 > outputPath : 이미지를 통해 만들어질 3D Modeling(USDZ 파일)이 만들어질 경로, .usdz 확장자를 사용해야됨
 > -d : 모델링 디테일 값으로 Mesh 사이즈나 Texture 사이즈에 대한 옵션(preview, reduced, medium, full, raw)
-> -o : image 연산처리를 위해 이미지가 연속적인 패턴으로 되어있는지에 대한 옵션(unorderd, sequential)
+> -o : image 연산처리를 위해 이미지가 연속적인 패턴으로 되어있는지에 대한 옵션(unordered, sequential)
 > -f : 스캔한 Object를 식별할 수 있는 구조, Edge나 Texture가 많이 없는 경우, high로 설정을 권장하는 옵션(normal, high)
 ~~~
 
