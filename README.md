@@ -22,7 +22,7 @@ Photogrammetry Command-Line App : [다운로드 링크](https://developer.apple.
 <br/><br/>
 
 <예제에서 제공되는 이미지>
-- Nike Ar Force 1
+- Nike Air Force 1
 - Nike Pegasus
 - Fruit Cake
 - Lemon Meringue Pie
@@ -80,7 +80,7 @@ $ ./HelloPhotogrammetry (inputPath) (outputPath) -d (option) -o (option) -f (opt
 > outputPath : 이미지를 통해 만들어질 3D Modeling(USDZ 파일)이 만들어질 경로, .usdz 확장자를 사용해야됨
 > -d : 모델링 디테일 값으로 Mesh 사이즈나 Texture 사이즈에 대한 옵션(preview, reduced, medium, full, raw)
 > -o : image 연산처리를 위해 이미지가 연속적인 패턴으로 되어있는지에 대한 옵션(unordered, sequential)
-> -f : 스캔한 Object를 식별할 수 있는 구조, Edge나 Texture가 많이 없는 경우, high로 설정을 권장하는 옵션(normal, high)
+> -f : 스캔한 Object를 식별할 수 있는 구조, Edge나 Texture가 많이 없는 경우, high로 옵션 설정을 권장(normal, high)
 ~~~
 
 ![가이드8](./referenceImage/가이드8.png)
